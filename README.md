@@ -6,6 +6,11 @@ Antes de iniciar o desenvolvimento da aplicação foi necessário buscar entende
 
 Por não conter informações relacionadas ao tamanho de arquivo que a api estaria lidando, a api foi desenvolvida de uma forma que atendesse a demanda que fosse necessária juntamente a possibilidade de mudanças para garantir o bom funcionamento, visando a flexibilidade.
 
+Com isso foi preciso entender o fluxo da aplicação para alinhar qual tipo de trabalho seria realizado.
+![image](https://github.com/AyrtonYamashita/api-remote-vivo/assets/90657726/4c798b9c-e66f-4b36-b325-470971669285)
+Acima possui um fluxograma representando as etapas do processo na visão de negócios da operação, tendo em vista que o foco seria em realizar a conexão entre o servidor de produção e servidor de envio, efetivando a intermediação dos processos.
+
+
 ## Tecnologias utilizadas
 
 <picture>
